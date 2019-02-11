@@ -1,0 +1,26 @@
+#boardTable {
+    width: 45%;
+    height: 600px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.barco-vertical{
+	background-color: lightblue;
+}
+
+.barco-horizontal{
+	background-color: lightblue;
+}
+
+.barco-hundido {
+	background-color: black;
+}
+.agua {
+    background-color: lightblue;
+
+}
+
+#buttonDiv {
+    text-align: center;
+}
